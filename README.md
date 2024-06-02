@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @venkateshs05
-- 👀 I’m interested in SoftWare Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Cdac Course
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
